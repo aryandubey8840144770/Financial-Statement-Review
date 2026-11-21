@@ -1,0 +1,8 @@
+Scenario,Revenue_FY25_INR_Cr,Underlying_EBITDA_Margin,EBITDA_INR_Cr,EV_EBITDA_Multiple,Indicative_Enterprise_Value_INR_Cr,Net_Automotive_Cash_FY25_INR_Cr
+Conservative,439695,13.1%,57600,5.0,288000,1018
+Base case,439695,13.1%,57600,6.0,345600,1018
+Higher case,439695,13.1%,57600,7.0,403200,1018
+
+Model formula,EBITDA = Revenue × Underlying EBITDA margin
+Valuation formula,Enterprise Value = EBITDA × EV/EBITDA multiple
+Note,Net automotive cash is disclosed for context and is not added to enterprise value. Figures are rounded and in INR crore.
